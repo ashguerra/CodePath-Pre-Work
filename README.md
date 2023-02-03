@@ -5,7 +5,7 @@
 
 ### App Walk-through
 
-<!-- <img src="https://imgur.com/WcQTgLa.gif"> width=350><br> -->
+<!-- <img src="https://imgur.com/WcQTgLa.gif"> width=600> <br> -->
 
 
 ### Required Features
