@@ -5,7 +5,7 @@
 
 ### App Walk-through
 
-<!-- <img src="https://media.giphy.com/media/TZse4XLmO7tYMxbmTw/giphy.gif" width=200><br> OR <img src="AppWalkthrough" width=200><br> -->
+<!-- <img src="https://media.giphy.com/media/TZse4XLmO7tYMxbmTw/giphy.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 
 ### Required Features
