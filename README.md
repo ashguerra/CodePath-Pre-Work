@@ -3,7 +3,7 @@
 ### App Description
 - iOS Development Course Pre-Work application that introduces student with their first name, last name, school, year and number of pets.
 
-### App Walk-through
+### App Walkthrough
 
 ![](https://i.imgur.com/RsgIEqx.gif)<br>
 
