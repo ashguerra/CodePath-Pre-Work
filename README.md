@@ -5,7 +5,7 @@
 
 ### App Walk-through
 
-<!-- <img src=https://media.giphy.com/media/HAdcbyzJyx4TAIElqJ/giphy.gif width=255><br> -->
+<!-- <img src="https://giphy.com/embed/HAdcbyzJyx4TAIElqJ.gif" width="272" height="480"><br> -->
 
 
 ### Required Features
